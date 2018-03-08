@@ -1,3 +1,9 @@
+import numpy as np 
+import pandas as pd
+from random import random
+import math
+import scipy
+
 def manhattan_distance(vec1, vec2):
     """Compute the manhattan distance between two vectors
 
